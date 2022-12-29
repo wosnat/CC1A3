@@ -1,0 +1,256 @@
+category,PATH,over_represented_pvalue,padj,under_represented_pvalue,numDEInCat,numInCat,main,type,enrich,organism
+09102,09102 Energy metabolism,3.282368902654423e-5,5.908264024777961e-4,0.9999878857821838,33,120,09100 Metabolism,significant,sub,HOT1A3
+09109,09109 Metabolism of terpenoids and polyketides,0.023933123845262364,0.1702552215171219,0.9931803177105933,7,25,09100 Metabolism,significant,sub,HOT1A3
+09110,09110 Biosynthesis of other secondary metabolites,0.028375870252853652,0.1702552215171219,0.9916128410579844,7,25,09100 Metabolism,significant,sub,HOT1A3
+09108,09108 Metabolism of cofactors and vitamins,0.049021981506311596,0.22059891677840218,0.9711855156863368,24,139,09100 Metabolism,significant,sub,HOT1A3
+09103,09103 Lipid metabolism,0.1053868446231764,0.3793926406434351,0.9600317437131041,6,26,09100 Metabolism,significant,sub,HOT1A3
+09131,09131 Membrane transport,0.23205148546889556,0.6961544564066867,0.8729613892950552,8,46,09130 Environmental Information Processing,significant,sub,HOT1A3
+09132,09132 Signal transduction,0.3454140448252263,0.8359974531742138,0.816971088360406,5,31,09130 Environmental Information Processing,significant,sub,HOT1A3
+09145,09145 Cellular community - prokaryotes,0.3816223997046211,0.8359974531742138,0.806302715533511,4,25,09140 Cellular Processes,significant,sub,HOT1A3
+09101,09101 Carbohydrate metabolism,0.4179987265871069,0.8359974531742138,0.7009674172466559,12,91,09100 Metabolism,significant,sub,HOT1A3
+09124,09124 Replication and repair,0.46736087778904056,0.8412495800202731,0.715710026444442,5,39,09120 Genetic Information Processing,significant,sub,HOT1A3
+09143,09143 Cell growth and death,0.6270621932023152,0.9664173241887649,0.6617924750294892,2,17,09140 Cellular Processes,significant,sub,HOT1A3
+09107,09107 Glycan biosynthesis and metabolism,0.6886057436180534,0.9664173241887649,0.5111226778348006,4,37,09100 Metabolism,significant,sub,HOT1A3
+09105,09105 Amino acid metabolism,0.7060997091966977,0.9664173241887649,0.4074854340062235,12,109,09100 Metabolism,significant,sub,HOT1A3
+09106,09106 Metabolism of other amino acids,0.7516579188134838,0.9664173241887649,0.46170832076284307,3,32,09100 Metabolism,significant,sub,HOT1A3
+09104,09104 Nucleotide metabolism,0.8491937527234339,0.9678964522318483,0.2791729564566343,5,56,09100 Metabolism,significant,sub,HOT1A3
+09111,09111 Xenobiotics biodegradation and metabolism,0.8603524019838651,0.9678964522318483,0.4359382804034785,1,14,09100 Metabolism,significant,sub,HOT1A3
+09123,"09123 Folding, sorting and degradation",0.9399850004398934,0.9952782357598872,0.18027774575031477,2,33,09120 Genetic Information Processing,significant,sub,HOT1A3
+09122,09122 Translation,0.9999963269473335,0.9999963269473335,5.4807835119019144e-5,1,78,09120 Genetic Information Processing,significant,sub,HOT1A3
+09102,09102 Energy metabolism,6.541033587057514e-7,1.1773860456703524e-5,0.9999998486230055,23,120,09100 Metabolism,down,sub,HOT1A3
+09110,09110 Biosynthesis of other secondary metabolites,7.670942771597831e-4,0.006903848494438048,0.9998882775642058,7,25,09100 Metabolism,down,sub,HOT1A3
+09103,09103 Lipid metabolism,0.005523392480491773,0.03314035488295064,0.9989726515086058,6,26,09100 Metabolism,down,sub,HOT1A3
+09109,09109 Metabolism of terpenoids and polyketides,0.07152407770561983,0.32185834967528926,0.9811906170731541,4,25,09100 Metabolism,down,sub,HOT1A3
+09101,09101 Carbohydrate metabolism,0.10382062921681881,0.3737542651805477,0.9501969776828827,9,91,09100 Metabolism,down,sub,HOT1A3
+09108,09108 Metabolism of cofactors and vitamins,0.1773766230147649,0.5321298690442947,0.895272753556905,12,139,09100 Metabolism,down,sub,HOT1A3
+09105,09105 Amino acid metabolism,0.2545503220258034,0.6545579709234945,0.8493409791996875,9,109,09100 Metabolism,down,sub,HOT1A3
+09145,09145 Cellular community - prokaryotes,0.46547385770181243,0.8461000238367996,0.8010333373115472,2,25,09140 Cellular Processes,down,sub,HOT1A3
+09131,09131 Membrane transport,0.5784610027884334,0.8461000238367996,0.6561231784398526,3,46,09130 Environmental Information Processing,down,sub,HOT1A3
+09106,09106 Metabolism of other amino acids,0.5967465753047645,0.8461000238367996,0.6850493521970533,2,32,09100 Metabolism,down,sub,HOT1A3
+09111,09111 Xenobiotics biodegradation and metabolism,0.6118877219577263,0.8461000238367996,0.7695892278440462,1,14,09100 Metabolism,down,sub,HOT1A3
+09132,09132 Signal transduction,0.6131527680313281,0.8461000238367996,0.6689414771110451,2,31,09130 Environmental Information Processing,down,sub,HOT1A3
+09124,09124 Replication and repair,0.6385978239004769,0.8461000238367996,0.6404180453690049,2,39,09120 Genetic Information Processing,down,sub,HOT1A3
+09143,09143 Cell growth and death,0.6670121687881757,0.8461000238367996,0.7129545158171859,1,17,09140 Cellular Processes,down,sub,HOT1A3
+09107,09107 Glycan biosynthesis and metabolism,0.7050833531973331,0.8461000238367996,0.564914084643275,2,37,09100 Metabolism,down,sub,HOT1A3
+09104,09104 Nucleotide metabolism,0.8816795639016783,0.9918895093893881,0.2978941294566315,2,56,09100 Metabolism,down,sub,HOT1A3
+09122,09122 Translation,1,1,0.005353109191169165,0,78,09120 Genetic Information Processing,down,sub,HOT1A3
+09123,"09123 Folding, sorting and degradation",1,1,0.12830727814675844,0,33,09120 Genetic Information Processing,down,sub,HOT1A3
+09108,09108 Metabolism of cofactors and vitamins,0.11464838020692605,1,0.9373461655885755,12,139,09100 Metabolism,up,sub,HOT1A3
+09109,09109 Metabolism of terpenoids and polyketides,0.15998672033426256,1,0.9529679010426028,3,25,09100 Metabolism,up,sub,HOT1A3
+09131,09131 Membrane transport,0.16772986876130663,1,0.9302078329532162,5,46,09130 Environmental Information Processing,up,sub,HOT1A3
+09124,09124 Replication and repair,0.24695899929781723,1,0.9088092492761184,3,39,09120 Genetic Information Processing,up,sub,HOT1A3
+09132,09132 Signal transduction,0.2964914893752635,1,0.8812155938363656,3,31,09130 Environmental Information Processing,up,sub,HOT1A3
+09102,09102 Energy metabolism,0.3741169622843109,1,0.7481319969627152,10,120,09100 Metabolism,up,sub,HOT1A3
+09145,09145 Cellular community - prokaryotes,0.4358356096967966,1,0.8225380954602666,2,25,09140 Cellular Processes,up,sub,HOT1A3
+09123,"09123 Folding, sorting and degradation",0.6066993314742607,1,0.674483867987596,2,33,09120 Genetic Information Processing,up,sub,HOT1A3
+09143,09143 Cell growth and death,0.6179754388296568,1,0.7614796292990625,1,17,09140 Cellular Processes,up,sub,HOT1A3
+09107,09107 Glycan biosynthesis and metabolism,0.6556659613246617,1,0.6218542552002814,2,37,09100 Metabolism,up,sub,HOT1A3
+09104,09104 Nucleotide metabolism,0.6639380771704027,1,0.5637909255659455,3,56,09100 Metabolism,up,sub,HOT1A3
+09106,09106 Metabolism of other amino acids,0.8245075946976133,1,0.4912563682214337,1,32,09100 Metabolism,up,sub,HOT1A3
+09101,09101 Carbohydrate metabolism,0.8837613720308832,1,0.25729065629846554,3,91,09100 Metabolism,up,sub,HOT1A3
+09105,09105 Amino acid metabolism,0.9586809850018299,1,0.11181595076960904,3,109,09100 Metabolism,up,sub,HOT1A3
+09122,09122 Translation,0.9986188827051465,1,0.011094310411283805,1,78,09120 Genetic Information Processing,up,sub,HOT1A3
+09103,09103 Lipid metabolism,1,1,0.1743457885946988,0,26,09100 Metabolism,up,sub,HOT1A3
+09110,09110 Biosynthesis of other secondary metabolites,1,1,0.20666446201654476,0,25,09100 Metabolism,up,sub,HOT1A3
+09111,09111 Xenobiotics biodegradation and metabolism,1,1,0.38047684080385663,0,14,09100 Metabolism,up,sub,HOT1A3
+00910,00910 Nitrogen metabolism [PATH:ko00910],0.002422156310419433,0.13675663538575136,0.9998750135246158,4,6,09100 Metabolism,significant,path,HOT1A3
+00710,00710 Carbon fixation in photosynthetic organisms [PATH:ko00710],0.004082287623455264,0.13675663538575136,0.9993860782028773,6,14,09100 Metabolism,significant,path,HOT1A3
+00920,00920 Sulfur metabolism [PATH:ko00920],0.009860558330091288,0.2166364137989282,0.9985015274796559,5,12,09100 Metabolism,significant,path,HOT1A3
+00061,00061 Fatty acid biosynthesis [PATH:ko00061],0.012933517241727057,0.2166364137989282,0.9978915702436226,5,12,09100 Metabolism,significant,path,HOT1A3
+00051,00051 Fructose and mannose metabolism [PATH:ko00051],0.032209140057266696,0.3625088473480817,0.9945459591883776,4,10,09100 Metabolism,significant,path,HOT1A3
+00860,00860 Porphyrin metabolism [PATH:ko00860],0.03246347886699239,0.3625088473480817,0.9873694465588054,10,44,09100 Metabolism,significant,path,HOT1A3
+00010,00010 Glycolysis / Gluconeogenesis [PATH:ko00010],0.05299842348057661,0.5072706247426618,0.9857623269864904,5,18,09100 Metabolism,significant,path,HOT1A3
+00195,00195 Photosynthesis [PATH:ko00195],0.10452607370562461,0.6571431465119038,0.9477171874709923,11,46,09100 Metabolism,significant,path,HOT1A3
+00900,00900 Terpenoid backbone biosynthesis [PATH:ko00900],0.1105777679847276,0.6571431465119038,0.9756157670479716,3,10,09100 Metabolism,significant,path,HOT1A3
+02020,02020 Two-component system [PATH:ko02020],0.11099719272715716,0.6571431465119038,0.9618423631126942,5,21,09130 Environmental Information Processing,significant,path,HOT1A3
+00261,00261 Monobactam biosynthesis [PATH:ko00261],0.11314404449066616,0.6571431465119038,0.985617407297001,2,5,09100 Metabolism,significant,path,HOT1A3
+02010,02010 ABC transporters [PATH:ko02010],0.11769727997228127,0.6571431465119038,0.949542569723765,7,34,09130 Environmental Information Processing,significant,path,HOT1A3
+00680,00680 Methane metabolism [PATH:ko00680],0.156631403899825,0.8072541585606365,0.9579149723220355,3,12,09100 Metabolism,significant,path,HOT1A3
+00130,00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130],0.17201551520261174,0.8108379814293122,0.9517031961209315,3,12,09100 Metabolism,significant,path,HOT1A3
+00760,00760 Nicotinate and nicotinamide metabolism [PATH:ko00760],0.18329597028189049,0.8108379814293122,0.946956090568409,3,12,09100 Metabolism,significant,path,HOT1A3
+00640,00640 Propanoate metabolism [PATH:ko00640],0.1936329507890895,0.8108379814293122,0.9611134207137181,2,7,09100 Metabolism,significant,path,HOT1A3
+03420,03420 Nucleotide excision repair [PATH:ko03420],0.23953772795645675,0.8466059434719948,0.9415964070623581,2,9,09120 Genetic Information Processing,significant,path,HOT1A3
+00190,00190 Oxidative phosphorylation [PATH:ko00190],0.24145001214242323,0.8466059434719948,0.8804055321481029,6,32,09100 Metabolism,significant,path,HOT1A3
+00270,00270 Cysteine and methionine metabolism [PATH:ko00270],0.24275558535086306,0.8466059434719948,0.9004791214675653,4,21,09100 Metabolism,significant,path,HOT1A3
+00630,00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630],0.262663047976792,0.8466059434719948,0.9061735077720726,3,15,09100 Metabolism,significant,path,HOT1A3
+00030,00030 Pentose phosphate pathway [PATH:ko00030],0.2653541016852521,0.8466059434719948,0.9047170785643083,3,15,09100 Metabolism,significant,path,HOT1A3
+03410,03410 Base excision repair [PATH:ko03410],0.2964485637463432,0.9028206259547725,0.916498241597422,2,9,09120 Genetic Information Processing,significant,path,HOT1A3
+02024,02024 Quorum sensing [PATH:ko02024],0.33190206162671554,0.9584733408648218,0.8649466104934136,3,16,09140 Cellular Processes,significant,path,HOT1A3
+00780,00780 Biotin metabolism [PATH:ko00780],0.36122391919364044,0.9584733408648218,0.8809603431916715,2,10,09100 Metabolism,significant,path,HOT1A3
+00620,00620 Pyruvate metabolism [PATH:ko00620],0.3686374473707899,0.9584733408648218,0.8392961129803588,3,18,09100 Metabolism,significant,path,HOT1A3
+00720,00720 Carbon fixation pathways in prokaryotes [PATH:ko00720],0.3719448785445577,0.9584733408648218,0.8731746867722587,2,11,09100 Metabolism,significant,path,HOT1A3
+00730,00730 Thiamine metabolism [PATH:ko00730],0.39722030641585276,0.9620028743107866,0.8578124842019652,2,11,09100 Metabolism,significant,path,HOT1A3
+04112,04112 Cell cycle - Caulobacter [PATH:ko04112],0.4020310519507765,0.9620028743107866,0.8547876209978633,2,11,09140 Cellular Processes,significant,path,HOT1A3
+00400,"00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]",0.4367668302266622,1,0.7892260565848646,3,19,09100 Metabolism,significant,path,HOT1A3
+03430,03430 Mismatch repair [PATH:ko03430],0.4521137512804845,1,0.8181426155536613,2,13,09120 Genetic Information Processing,significant,path,HOT1A3
+04122,04122 Sulfur relay system [PATH:ko04122],0.5247397611178213,1,0.856920022886251,1,5,09120 Genetic Information Processing,significant,path,HOT1A3
+03030,03030 DNA replication [PATH:ko03030],0.5445543233400816,1,0.7424338174901226,2,15,09120 Genetic Information Processing,significant,path,HOT1A3
+00540,00540 Lipopolysaccharide biosynthesis [PATH:ko00540],0.5495002398192506,1,0.8352166007036077,1,6,09100 Metabolism,significant,path,HOT1A3
+02026,02026 Biofilm formation - Escherichia coli [PATH:ko02026],0.5858612590923808,1,0.8038164080822463,1,7,09140 Cellular Processes,significant,path,HOT1A3
+00906,00906 Carotenoid biosynthesis [PATH:ko00906],0.5914226581374378,1,0.7993119567258841,1,7,09100 Metabolism,significant,path,HOT1A3
+00450,00450 Selenocompound metabolism [PATH:ko00450],0.6659624631660284,1,0.7243425164513595,1,9,09100 Metabolism,significant,path,HOT1A3
+03440,03440 Homologous recombination [PATH:ko03440],0.6934468360122574,1,0.5854548763829691,2,20,09120 Genetic Information Processing,significant,path,HOT1A3
+00230,00230 Purine metabolism [PATH:ko00230],0.7080430128409579,1,0.4881449125616708,4,37,09100 Metabolism,significant,path,HOT1A3
+00561,00561 Glycerolipid metabolism [PATH:ko00561],0.7402177646341876,1,0.6355778219605368,1,10,09100 Metabolism,significant,path,HOT1A3
+00300,00300 Lysine biosynthesis [PATH:ko00300],0.7560082551176832,1,0.6121865283678617,1,11,09100 Metabolism,significant,path,HOT1A3
+00670,00670 One carbon pool by folate [PATH:ko00670],0.7570582441582177,1,0.610749316886356,1,11,09100 Metabolism,significant,path,HOT1A3
+00340,00340 Histidine metabolism [PATH:ko00340],0.7668837504208801,1,0.5970694873129978,1,11,09100 Metabolism,significant,path,HOT1A3
+00240,00240 Pyrimidine metabolism [PATH:ko00240],0.7706985000199416,1,0.48451297374938745,2,22,09100 Metabolism,significant,path,HOT1A3
+00330,00330 Arginine and proline metabolism [PATH:ko00330],0.7940069799704788,1,0.5548788847544168,1,12,09100 Metabolism,significant,path,HOT1A3
+00500,00500 Starch and sucrose metabolism [PATH:ko00500],0.8162450276651434,1,0.5157619466808572,1,14,09100 Metabolism,significant,path,HOT1A3
+00770,00770 Pantothenate and CoA biosynthesis [PATH:ko00770],0.8186993223946903,1,0.5132179043300544,1,13,09100 Metabolism,significant,path,HOT1A3
+00520,00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520],0.819143901302283,1,0.4114344462248228,2,24,09100 Metabolism,significant,path,HOT1A3
+00541,00541 O-Antigen nucleotide sugar biosynthesis [PATH:ko00541],0.8344379007370447,1,0.4859786795443459,1,13,09100 Metabolism,significant,path,HOT1A3
+03070,03070 Bacterial secretion system [PATH:ko03070],0.8424386611468113,1,0.47342846161288943,1,12,09130 Environmental Information Processing,significant,path,HOT1A3
+00250,"00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]",0.8667596106006521,1,0.42056771431972706,1,16,09100 Metabolism,significant,path,HOT1A3
+00550,00550 Peptidoglycan biosynthesis [PATH:ko00550],0.8689898355312504,1,0.41605634398242863,1,16,09100 Metabolism,significant,path,HOT1A3
+03060,03060 Protein export [PATH:ko03060],0.9153919918738203,1,0.3116248209456234,1,16,09120 Genetic Information Processing,significant,path,HOT1A3
+00260,"00260 Glycine, serine and threonine metabolism [PATH:ko00260]",0.9234657466416846,1,0.28748529541388196,1,20,09100 Metabolism,significant,path,HOT1A3
+03010,03010 Ribosome [PATH:ko03010],0.9999124099495089,1,9.99247233971167e-4,1,53,09120 Genetic Information Processing,significant,path,HOT1A3
+00020,00020 Citrate cycle (TCA cycle) [PATH:ko00020],1,1,0.3252607629248543,0,9,09100 Metabolism,significant,path,HOT1A3
+00220,00220 Arginine biosynthesis [PATH:ko00220],1,1,0.16539977434814554,0,13,09100 Metabolism,significant,path,HOT1A3
+00290,"00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]",1,1,0.2788341343367319,0,10,09100 Metabolism,significant,path,HOT1A3
+00470,00470 D-Amino acid metabolism [PATH:ko00470],1,1,0.4014665190228235,0,7,09100 Metabolism,significant,path,HOT1A3
+00480,00480 Glutathione metabolism [PATH:ko00480],1,1,0.2151820818003477,0,12,09100 Metabolism,significant,path,HOT1A3
+00521,00521 Streptomycin biosynthesis [PATH:ko00521],1,1,0.4583876161425742,0,6,09100 Metabolism,significant,path,HOT1A3
+00564,00564 Glycerophospholipid metabolism [PATH:ko00564],1,1,0.4929968797451659,0,5,09100 Metabolism,significant,path,HOT1A3
+00660,00660 C5-Branched dibasic acid metabolism [PATH:ko00660],1,1,0.5209390161398956,0,5,09100 Metabolism,significant,path,HOT1A3
+00740,00740 Riboflavin metabolism [PATH:ko00740],1,1,0.4475849878227508,0,6,09100 Metabolism,significant,path,HOT1A3
+00790,00790 Folate biosynthesis [PATH:ko00790],1,1,0.18465631600561086,0,12,09100 Metabolism,significant,path,HOT1A3
+00970,00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970],1,1,0.05360219305630065,0,24,09120 Genetic Information Processing,significant,path,HOT1A3
+00983,00983 Drug metabolism - other enzymes [PATH:ko00983],1,1,0.2970502574257979,0,9,09100 Metabolism,significant,path,HOT1A3
+03018,03018 RNA degradation [PATH:ko03018],1,1,0.28608455999540805,0,11,09120 Genetic Information Processing,significant,path,HOT1A3
+00710,00710 Carbon fixation in photosynthetic organisms [PATH:ko00710],1.0647276019739868e-4,0.0038174912244393674,0.9999923773152779,6,14,09100 Metabolism,down,path,HOT1A3
+00195,00195 Photosynthesis [PATH:ko00195],1.1395496192356321e-4,0.0038174912244393674,0.9999789090569176,11,46,09100 Metabolism,down,path,HOT1A3
+00061,00061 Fatty acid biosynthesis [PATH:ko00061],5.966999276294788e-4,0.013326298383725026,0.9999542591513779,5,12,09100 Metabolism,down,path,HOT1A3
+00010,00010 Glycolysis / Gluconeogenesis [PATH:ko00010],0.00395869551641991,0.0663081499000335,0.9994636059270159,5,18,09100 Metabolism,down,path,HOT1A3
+00860,00860 Porphyrin metabolism [PATH:ko00860],0.017815232481749398,0.23872411525544193,0.9949536406476231,7,44,09100 Metabolism,down,path,HOT1A3
+00051,00051 Fructose and mannose metabolism [PATH:ko00051],0.02476371289019911,0.27652812727389003,0.9970812579380299,3,10,09100 Metabolism,down,path,HOT1A3
+00261,00261 Monobactam biosynthesis [PATH:ko00261],0.03609082959060226,0.3218981999109073,0.99763979347212,2,5,09100 Metabolism,down,path,HOT1A3
+00920,00920 Sulfur metabolism [PATH:ko00920],0.038435605959511315,0.3218981999109073,0.9943728765699532,3,12,09100 Metabolism,down,path,HOT1A3
+00640,00640 Propanoate metabolism [PATH:ko00640],0.05982537347268415,0.44005281390202006,0.9940855377950063,2,7,09100 Metabolism,down,path,HOT1A3
+00030,00030 Pentose phosphate pathway [PATH:ko00030],0.06567952446298807,0.44005281390202006,0.9875707480269756,3,15,09100 Metabolism,down,path,HOT1A3
+00620,00620 Pyruvate metabolism [PATH:ko00620],0.09306055823176285,0.5668234001389192,0.979124469486878,3,18,09100 Metabolism,down,path,HOT1A3
+00400,"00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]",0.12678812261031575,0.6664868644852929,0.9672702642520552,3,19,09100 Metabolism,down,path,HOT1A3
+00720,00720 Carbon fixation pathways in prokaryotes [PATH:ko00720],0.13142408423990443,0.6664868644852929,0.977411377066713,2,11,09100 Metabolism,down,path,HOT1A3
+00780,00780 Biotin metabolism [PATH:ko00780],0.1392659119820015,0.6664868644852929,0.9755806846925249,2,10,09100 Metabolism,down,path,HOT1A3
+00680,00680 Methane metabolism [PATH:ko00680],0.1600219412475012,0.7147646709055053,0.9686229317678662,2,12,09100 Metabolism,down,path,HOT1A3
+00190,00190 Oxidative phosphorylation [PATH:ko00190],0.34021456593603194,1,0.8535987338912457,3,32,09100 Metabolism,down,path,HOT1A3
+00540,00540 Lipopolysaccharide biosynthesis [PATH:ko00540],0.3403234229508993,1,0.9442675841782624,1,6,09100 Metabolism,down,path,HOT1A3
+02026,02026 Biofilm formation - Escherichia coli [PATH:ko02026],0.3597281706087094,1,0.93551945207235,1,7,09140 Cellular Processes,down,path,HOT1A3
+02010,02010 ABC transporters [PATH:ko02010],0.382681035816131,1,0.8240266246040742,3,34,09130 Environmental Information Processing,down,path,HOT1A3
+00270,00270 Cysteine and methionine metabolism [PATH:ko00270],0.3840043123508369,1,0.8590203167820993,2,21,09100 Metabolism,down,path,HOT1A3
+02020,02020 Two-component system [PATH:ko02020],0.40539071704407054,1,0.8451646422157361,2,21,09130 Environmental Information Processing,down,path,HOT1A3
+00450,00450 Selenocompound metabolism [PATH:ko00450],0.4106883677489243,1,0.9109302902202394,1,9,09100 Metabolism,down,path,HOT1A3
+03410,03410 Base excision repair [PATH:ko03410],0.43671110683794917,1,0.8978638281631819,1,9,09120 Genetic Information Processing,down,path,HOT1A3
+00900,00900 Terpenoid backbone biosynthesis [PATH:ko00900],0.48856009965576386,1,0.8670558815625697,1,10,09100 Metabolism,down,path,HOT1A3
+00561,00561 Glycerolipid metabolism [PATH:ko00561],0.49449329454029556,1,0.8633407162295408,1,10,09100 Metabolism,down,path,HOT1A3
+00300,00300 Lysine biosynthesis [PATH:ko00300],0.517788177842637,1,0.8468874202918351,1,11,09100 Metabolism,down,path,HOT1A3
+03430,03430 Mismatch repair [PATH:ko03430],0.5213784986198007,1,0.8425488825158854,1,13,09120 Genetic Information Processing,down,path,HOT1A3
+04112,04112 Cell cycle - Caulobacter [PATH:ko04112],0.5277560010604001,1,0.8399910347803115,1,11,09140 Cellular Processes,down,path,HOT1A3
+00340,00340 Histidine metabolism [PATH:ko00340],0.53103951062888,1,0.8376747780277267,1,11,09100 Metabolism,down,path,HOT1A3
+00760,00760 Nicotinate and nicotinamide metabolism [PATH:ko00760],0.5521254375749136,1,0.8211229958203561,1,12,09100 Metabolism,down,path,HOT1A3
+00330,00330 Arginine and proline metabolism [PATH:ko00330],0.5536153074814166,1,0.8199919006914392,1,12,09100 Metabolism,down,path,HOT1A3
+00130,00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130],0.5567527827619985,1,0.81759402080318,1,12,09100 Metabolism,down,path,HOT1A3
+00500,00500 Starch and sucrose metabolism [PATH:ko00500],0.5662667227102746,1,0.8083241005830126,1,14,09100 Metabolism,down,path,HOT1A3
+00770,00770 Pantothenate and CoA biosynthesis [PATH:ko00770],0.5792920943408628,1,0.7986681807524993,1,13,09100 Metabolism,down,path,HOT1A3
+00630,00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630],0.5794897207225627,1,0.7968329668306213,1,15,09100 Metabolism,down,path,HOT1A3
+03030,03030 DNA replication [PATH:ko03030],0.5953463433411884,1,0.7834006857589624,1,15,09120 Genetic Information Processing,down,path,HOT1A3
+00250,"00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]",0.6371992136127578,1,0.7441129246648042,1,16,09100 Metabolism,down,path,HOT1A3
+02024,02024 Quorum sensing [PATH:ko02024],0.6392365759613583,1,0.7421165110068806,1,16,09140 Cellular Processes,down,path,HOT1A3
+03440,03440 Homologous recombination [PATH:ko03440],0.6770909179620237,1,0.700185317885103,1,20,09120 Genetic Information Processing,down,path,HOT1A3
+00240,00240 Pyrimidine metabolism [PATH:ko00240],0.7631197523755775,1,0.5915488775634856,1,22,09100 Metabolism,down,path,HOT1A3
+00520,00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520],0.8008194867551917,1,0.5338424397134707,1,24,09100 Metabolism,down,path,HOT1A3
+00230,00230 Purine metabolism [PATH:ko00230],0.9132388373088453,1,0.3082860229132264,1,37,09100 Metabolism,down,path,HOT1A3
+00020,00020 Citrate cycle (TCA cycle) [PATH:ko00020],1,1,0.5676683977172925,0,9,09100 Metabolism,down,path,HOT1A3
+00220,00220 Arginine biosynthesis [PATH:ko00220],1,1,0.41596623767017016,0,13,09100 Metabolism,down,path,HOT1A3
+00260,"00260 Glycine, serine and threonine metabolism [PATH:ko00260]",1,1,0.27507368793414305,0,20,09100 Metabolism,down,path,HOT1A3
+00290,"00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]",1,1,0.5238139816324957,0,10,09100 Metabolism,down,path,HOT1A3
+00470,00470 D-Amino acid metabolism [PATH:ko00470],1,1,0.621591884822443,0,7,09100 Metabolism,down,path,HOT1A3
+00480,00480 Glutathione metabolism [PATH:ko00480],1,1,0.46212733650592586,0,12,09100 Metabolism,down,path,HOT1A3
+00521,00521 Streptomycin biosynthesis [PATH:ko00521],1,1,0.6659362533151139,0,6,09100 Metabolism,down,path,HOT1A3
+00541,00541 O-Antigen nucleotide sugar biosynthesis [PATH:ko00541],1,1,0.4094104182807766,0,13,09100 Metabolism,down,path,HOT1A3
+00550,00550 Peptidoglycan biosynthesis [PATH:ko00550],1,1,0.35216159226681537,0,16,09100 Metabolism,down,path,HOT1A3
+00564,00564 Glycerophospholipid metabolism [PATH:ko00564],1,1,0.7061486546120324,0,5,09100 Metabolism,down,path,HOT1A3
+00660,00660 C5-Branched dibasic acid metabolism [PATH:ko00660],1,1,0.7199421943739828,0,5,09100 Metabolism,down,path,HOT1A3
+00670,00670 One carbon pool by folate [PATH:ko00670],1,1,0.49467069246131323,0,11,09100 Metabolism,down,path,HOT1A3
+00730,00730 Thiamine metabolism [PATH:ko00730],1,1,0.47600233537656506,0,11,09100 Metabolism,down,path,HOT1A3
+00740,00740 Riboflavin metabolism [PATH:ko00740],1,1,0.6675630038250284,0,6,09100 Metabolism,down,path,HOT1A3
+00790,00790 Folate biosynthesis [PATH:ko00790],1,1,0.4411999637538147,0,12,09100 Metabolism,down,path,HOT1A3
+00906,00906 Carotenoid biosynthesis [PATH:ko00906],1,1,0.6296462493839698,0,7,09100 Metabolism,down,path,HOT1A3
+00910,00910 Nitrogen metabolism [PATH:ko00910],1,1,0.7144182638146941,0,6,09100 Metabolism,down,path,HOT1A3
+00970,00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970],1,1,0.2526794261216353,0,24,09120 Genetic Information Processing,down,path,HOT1A3
+00983,00983 Drug metabolism - other enzymes [PATH:ko00983],1,1,0.541010375645006,0,9,09100 Metabolism,down,path,HOT1A3
+03010,03010 Ribosome [PATH:ko03010],1,1,0.023804682400276465,0,53,09120 Genetic Information Processing,down,path,HOT1A3
+03018,03018 RNA degradation [PATH:ko03018],1,1,0.55544076384482,0,11,09120 Genetic Information Processing,down,path,HOT1A3
+03060,03060 Protein export [PATH:ko03060],1,1,0.34701834013900906,0,16,09120 Genetic Information Processing,down,path,HOT1A3
+03070,03070 Bacterial secretion system [PATH:ko03070],1,1,0.45918661792737697,0,12,09130 Environmental Information Processing,down,path,HOT1A3
+03420,03420 Nucleotide excision repair [PATH:ko03420],1,1,0.6573219784278392,0,9,09120 Genetic Information Processing,down,path,HOT1A3
+04122,04122 Sulfur relay system [PATH:ko04122],1,1,0.7093859909130428,0,5,09120 Genetic Information Processing,down,path,HOT1A3
+00910,00910 Nitrogen metabolism [PATH:ko00910],8.884200089774898e-5,0.005952414060149182,0.9999981715917577,4,6,09100 Metabolism,up,path,HOT1A3
+03420,03420 Nucleotide excision repair [PATH:ko03420],0.024388035052682135,0.8169991742648516,0.9984296140244493,2,9,09120 Genetic Information Processing,up,path,HOT1A3
+00900,00900 Terpenoid backbone biosynthesis [PATH:ko00900],0.10733459388542069,1,0.983861743287616,2,10,09100 Metabolism,up,path,HOT1A3
+00730,00730 Thiamine metabolism [PATH:ko00730],0.13205876973925018,1,0.9771937930364194,2,11,09100 Metabolism,up,path,HOT1A3
+02020,02020 Two-component system [PATH:ko02020],0.13389312018952162,1,0.9641695844633387,3,21,09130 Environmental Information Processing,up,path,HOT1A3
+02010,02010 ABC transporters [PATH:ko02010],0.14177884611367225,1,0.9513053646579139,4,34,09130 Environmental Information Processing,up,path,HOT1A3
+00920,00920 Sulfur metabolism [PATH:ko00920],0.1500573880437978,1,0.9716598671992837,2,12,09100 Metabolism,up,path,HOT1A3
+00130,00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130],0.1517662538000773,1,0.9711385487913279,2,12,09100 Metabolism,up,path,HOT1A3
+00760,00760 Nicotinate and nicotinamide metabolism [PATH:ko00760],0.16365559099499546,1,0.9674044269684606,2,12,09100 Metabolism,up,path,HOT1A3
+00630,00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630],0.1732571171957092,1,0.9633412440052386,2,15,09100 Metabolism,up,path,HOT1A3
+02024,02024 Quorum sensing [PATH:ko02024],0.2498407692160084,1,0.9328928831209655,2,16,09140 Cellular Processes,up,path,HOT1A3
+04122,04122 Sulfur relay system [PATH:ko04122],0.32126541306126516,1,0.9525262653983853,1,5,09120 Genetic Information Processing,up,path,HOT1A3
+00906,00906 Carotenoid biosynthesis [PATH:ko00906],0.32681127515933794,1,0.9475997529465121,1,7,09100 Metabolism,up,path,HOT1A3
+00270,00270 Cysteine and methionine metabolism [PATH:ko00270],0.3281718451063743,1,0.892017812750225,2,21,09100 Metabolism,up,path,HOT1A3
+00190,00190 Oxidative phosphorylation [PATH:ko00190],0.3672360102961269,1,0.8350240648505041,3,32,09100 Metabolism,up,path,HOT1A3
+03410,03410 Base excision repair [PATH:ko03410],0.39626201189206683,1,0.917604483299355,1,9,09120 Genetic Information Processing,up,path,HOT1A3
+00230,00230 Purine metabolism [PATH:ko00230],0.3965735324432743,1,0.8130720233629974,3,37,09100 Metabolism,up,path,HOT1A3
+00860,00860 Porphyrin metabolism [PATH:ko00860],0.44861237213060295,1,0.7719338299700184,3,44,09100 Metabolism,up,path,HOT1A3
+03430,03430 Mismatch repair [PATH:ko03430],0.4503673483474557,1,0.8869571214558647,1,13,09120 Genetic Information Processing,up,path,HOT1A3
+00680,00680 Methane metabolism [PATH:ko00680],0.45734080314629205,1,0.8836584799317444,1,12,09100 Metabolism,up,path,HOT1A3
+00670,00670 One carbon pool by folate [PATH:ko00670],0.46472099735321293,1,0.8802043069612325,1,11,09100 Metabolism,up,path,HOT1A3
+04112,04112 Cell cycle - Caulobacter [PATH:ko04112],0.49476545437313235,1,0.8619015254639535,1,11,09140 Cellular Processes,up,path,HOT1A3
+00051,00051 Fructose and mannose metabolism [PATH:ko00051],0.5105397641713643,1,0.8527886757532107,1,10,09100 Metabolism,up,path,HOT1A3
+03030,03030 DNA replication [PATH:ko03030],0.5388460690254149,1,0.8284282580172689,1,15,09120 Genetic Information Processing,up,path,HOT1A3
+00550,00550 Peptidoglycan biosynthesis [PATH:ko00550],0.5840703576131895,1,0.7921052967135858,1,16,09100 Metabolism,up,path,HOT1A3
+00541,00541 O-Antigen nucleotide sugar biosynthesis [PATH:ko00541],0.5866515025220214,1,0.7923314397462767,1,13,09100 Metabolism,up,path,HOT1A3
+03440,03440 Homologous recombination [PATH:ko03440],0.6120804349873712,1,0.7653296896447102,1,20,09120 Genetic Information Processing,up,path,HOT1A3
+03070,03070 Bacterial secretion system [PATH:ko03070],0.6135487891791727,1,0.7700105559112069,1,12,09130 Environmental Information Processing,up,path,HOT1A3
+00260,"00260 Glycine, serine and threonine metabolism [PATH:ko00260]",0.6723275735073164,1,0.7051050259762075,1,20,09100 Metabolism,up,path,HOT1A3
+03060,03060 Protein export [PATH:ko03060],0.7236845453104577,1,0.6479904414009001,1,16,09120 Genetic Information Processing,up,path,HOT1A3
+00240,00240 Pyrimidine metabolism [PATH:ko00240],0.7277038045421496,1,0.6388398562302704,1,22,09100 Metabolism,up,path,HOT1A3
+00520,00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520],0.7740507362594962,1,0.5744580832028682,1,24,09100 Metabolism,up,path,HOT1A3
+03010,03010 Ribosome [PATH:ko03010],0.9955147047556275,1,0.03050264848104179,1,53,09120 Genetic Information Processing,up,path,HOT1A3
+00010,00010 Glycolysis / Gluconeogenesis [PATH:ko00010],1,1,0.3741572074378892,0,18,09100 Metabolism,up,path,HOT1A3
+00020,00020 Citrate cycle (TCA cycle) [PATH:ko00020],1,1,0.628841679562236,0,9,09100 Metabolism,up,path,HOT1A3
+00030,00030 Pentose phosphate pathway [PATH:ko00030],1,1,0.4257848812661889,0,15,09100 Metabolism,up,path,HOT1A3
+00061,00061 Fatty acid biosynthesis [PATH:ko00061],1,1,0.44124795369970327,0,12,09100 Metabolism,up,path,HOT1A3
+00195,00195 Photosynthesis [PATH:ko00195],1,1,0.009356772836920506,0,46,09100 Metabolism,up,path,HOT1A3
+00220,00220 Arginine biosynthesis [PATH:ko00220],1,1,0.4186982291485954,0,13,09100 Metabolism,up,path,HOT1A3
+00250,"00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]",1,1,0.42766567734533556,0,16,09100 Metabolism,up,path,HOT1A3
+00261,00261 Monobactam biosynthesis [PATH:ko00261],1,1,0.7492056394170085,0,5,09100 Metabolism,up,path,HOT1A3
+00290,"00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]",1,1,0.5761311976481245,0,10,09100 Metabolism,up,path,HOT1A3
+00300,00300 Lysine biosynthesis [PATH:ko00300],1,1,0.5343909727102187,0,11,09100 Metabolism,up,path,HOT1A3
+00330,00330 Arginine and proline metabolism [PATH:ko00330],1,1,0.481895357983677,0,12,09100 Metabolism,up,path,HOT1A3
+00340,00340 Histidine metabolism [PATH:ko00340],1,1,0.5008875980013388,0,11,09100 Metabolism,up,path,HOT1A3
+00400,"00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]",1,1,0.2883672425525808,0,19,09100 Metabolism,up,path,HOT1A3
+00450,00450 Selenocompound metabolism [PATH:ko00450],1,1,0.656154737994897,0,9,09100 Metabolism,up,path,HOT1A3
+00470,00470 D-Amino acid metabolism [PATH:ko00470],1,1,0.6552734404433231,0,7,09100 Metabolism,up,path,HOT1A3
+00480,00480 Glutathione metabolism [PATH:ko00480],1,1,0.5140871685302574,0,12,09100 Metabolism,up,path,HOT1A3
+00500,00500 Starch and sucrose metabolism [PATH:ko00500],1,1,0.5302901399553993,0,14,09100 Metabolism,up,path,HOT1A3
+00521,00521 Streptomycin biosynthesis [PATH:ko00521],1,1,0.69772684349119,0,6,09100 Metabolism,up,path,HOT1A3
+00540,00540 Lipopolysaccharide biosynthesis [PATH:ko00540],1,1,0.6814478035940453,0,6,09100 Metabolism,up,path,HOT1A3
+00561,00561 Glycerolipid metabolism [PATH:ko00561],1,1,0.5247803531041266,0,10,09100 Metabolism,up,path,HOT1A3
+00564,00564 Glycerophospholipid metabolism [PATH:ko00564],1,1,0.6983800779509087,0,5,09100 Metabolism,up,path,HOT1A3
+00620,00620 Pyruvate metabolism [PATH:ko00620],1,1,0.37269189203929043,0,18,09100 Metabolism,up,path,HOT1A3
+00640,00640 Propanoate metabolism [PATH:ko00640],1,1,0.702982555438727,0,7,09100 Metabolism,up,path,HOT1A3
+00660,00660 C5-Branched dibasic acid metabolism [PATH:ko00660],1,1,0.7458436717935839,0,5,09100 Metabolism,up,path,HOT1A3
+00710,00710 Carbon fixation in photosynthetic organisms [PATH:ko00710],1,1,0.43735722886080614,0,14,09100 Metabolism,up,path,HOT1A3
+00720,00720 Carbon fixation pathways in prokaryotes [PATH:ko00720],1,1,0.5818244437512646,0,11,09100 Metabolism,up,path,HOT1A3
+00740,00740 Riboflavin metabolism [PATH:ko00740],1,1,0.6843898988613502,0,6,09100 Metabolism,up,path,HOT1A3
+00770,00770 Pantothenate and CoA biosynthesis [PATH:ko00770],1,1,0.45866996555243894,0,13,09100 Metabolism,up,path,HOT1A3
+00780,00780 Biotin metabolism [PATH:ko00780],1,1,0.525411846055624,0,10,09100 Metabolism,up,path,HOT1A3
+00790,00790 Folate biosynthesis [PATH:ko00790],1,1,0.43301805400902366,0,12,09100 Metabolism,up,path,HOT1A3
+00970,00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970],1,1,0.3431259108801935,0,24,09120 Genetic Information Processing,up,path,HOT1A3
+00983,00983 Drug metabolism - other enzymes [PATH:ko00983],1,1,0.5589313552936402,0,9,09100 Metabolism,up,path,HOT1A3
+02026,02026 Biofilm formation - Escherichia coli [PATH:ko02026],1,1,0.6878877274658994,0,7,09140 Cellular Processes,up,path,HOT1A3
+03018,03018 RNA degradation [PATH:ko03018],1,1,0.688941659776098,0,11,09120 Genetic Information Processing,up,path,HOT1A3
