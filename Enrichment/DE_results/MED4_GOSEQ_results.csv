@@ -332,7 +332,7 @@ category,PATH,over_represented_pvalue,padj,under_represented_pvalue,numDEInCat,n
 03010,03010 Ribosome [PATH:ko03010],1,1,2.213493033156635e-6,0,49,09120 Genetic Information Processing,up,path,C3vsC1_prot,MED4
 03410,03410 Base excision repair [PATH:ko03410],1,1,0.2630915466239252,0,6,09120 Genetic Information Processing,up,path,C3vsC1_prot,MED4
 09122,09122 Translation,1.7011613866382684e-4,0.003062090495948883,0.9999416425736268,25,74,09120 Genetic Information Processing,down,sub,C4vsC1_prot,MED4
-09102,09102 Energy metabolism,0.013783439259488918,0.1146718956607453,0.9925712225511665,31,105,09100 Metabolism,down,sub,C4vsC1_prot,MED4
+09102,09102 Energy metabolism,0.013783439259488913,0.1146718956607453,0.9925712225511666,31,105,09100 Metabolism,down,sub,C4vsC1_prot,MED4
 09109,09109 Metabolism of terpenoids and polyketides,0.024375258117023547,0.1146718956607453,0.991594195111077,11,25,09100 Metabolism,down,sub,C4vsC1_prot,MED4
 09101,09101 Carbohydrate metabolism,0.03021832790976096,0.1146718956607453,0.9828910145256804,30,90,09100 Metabolism,down,sub,C4vsC1_prot,MED4
 09107,09107 Glycan biosynthesis and metabolism,0.03185330435020703,0.1146718956607453,0.9865703358696808,14,36,09100 Metabolism,down,sub,C4vsC1_prot,MED4
