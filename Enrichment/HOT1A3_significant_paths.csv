@@ -1,0 +1,121 @@
+module,pathway,Coculture down,Coculture up,Axenic down,Axenic up,Axenic late down,Axenic late up
+Cell motility,Cell motility,100%,0%,50%,0%,0.5,0
+Cell motility,Bacterial chemotaxis,91%,0%,50%,0%,0.5,0
+Signal transduction,Signal transduction,73%,0%,50%,0%,0.5,0
+Energy,Energy metabolism,45%,18%,0%,0%,0,0
+Energy,Oxidative phosphorylation,36%,18%,0%,50%,0,0
+Energy,Photosynthesis,36%,18%,0%,0%,0,0
+Signal transduction,Two-component system,55%,0%,50%,0%,0.5,0
+Amino acid,Amino acid metabolism,9%,36%,0%,0%,0.5,0
+Carbohydrate,Carbohydrate metabolism,9%,36%,0%,0%,0,0
+Translation,Ribosome,9%,36%,0%,50%,0,0.5
+Translation,Translation,9%,36%,0%,50%,0.5,0.5
+"Folding, sorting and degradation","Folding, sorting and degradation",27%,9%,0%,0%,0,0
+Lipid,Fatty acid biosynthesis,18%,18%,0%,0%,0,0
+Membrane transport,Bacterial secretion system,36%,0%,0%,0%,0,0
+Nucleotide,Nucleotide metabolism,0%,36%,0%,0%,0.5,0
+Nucleotide,Pyrimidine metabolism,0%,36%,0%,0%,0,0
+Amino acid,"Valine, leucine and isoleucine degradation",0%,27%,0%,0%,0.5,0.5
+Cell motility,Flagellar assembly,27%,0%,50%,0%,0.5,0.5
+Cellular community - prokaryotes,Cellular community - prokaryotes,27%,0%,0%,0%,0,0
+Energy,Nitrogen metabolism,0%,27%,0%,0%,0,0
+Xenobiotics biodegradation and,Xenobiotics biodegradation and metabolism,0%,27%,0%,0%,0,0
+Amino acid,"Alanine, aspartate and glutamate metabolism",9%,9%,0%,0%,0,0
+Amino acid,Lysine biosynthesis,0%,18%,0%,0%,0,0
+Energy,Carbon fixation pathways in prokaryotes,18%,0%,0%,0%,0,0
+Lipid,Lipid metabolism,0%,18%,0%,0%,0,0
+Translation,Aminoacyl-tRNA biosynthesis,9%,9%,0%,0%,0,0
+cofactors and vitamins,Metabolism of cofactors and vitamins,0%,18%,0%,0%,0.5,0
+Amino acid,Cysteine and methionine metabolism,9%,0%,0%,0%,0,0
+Amino acid,"Glycine, serine and threonine metabolism",9%,0%,0%,0%,0,0
+Amino acid,"Valine, leucine and isoleucine biosynthesis",9%,0%,0%,0%,0.5,0
+Carbohydrate,Glycolysis / Gluconeogenesis,9%,0%,0%,0%,0,0
+Carbohydrate,Propanoate metabolism,0%,9%,0%,0%,0,0
+Carbohydrate,Starch and sucrose metabolism,0%,9%,0%,0%,0,0
+Cellular community - prokaryotes,Biofilm formation - Vibrio cholerae,9%,0%,0%,0%,0,0
+Lipid,Fatty acid degradation,0%,9%,0%,0%,0,0
+Membrane transport,Membrane transport,0%,9%,0%,0%,0,0
+Nucleotide,Purine metabolism,0%,9%,0%,0%,0.5,0
+Xenobiotics biodegradation and,Benzoate degradation,0%,9%,0%,0%,0,0
+Xenobiotics biodegradation and,Drug metabolism - other enzymes,0%,9%,0%,0%,0,0
+cofactors and vitamins,Biotin metabolism,0%,9%,0%,0%,0,0
+cofactors and vitamins,Riboflavin metabolism,0%,9%,0%,0%,0,0
+other secondary metabolites,Biosynthesis of other secondary metabolites,9%,0%,0%,0%,0.5,0
+terpenoids and polyketides,Metabolism of terpenoids and polyketides,0%,9%,0%,0%,0,0
+terpenoids and polyketides,Terpenoid backbone biosynthesis,0%,9%,0%,0%,0,0
+Amino acid,Arginine and proline metabolism,0%,0%,0%,0%,0,0
+Amino acid,Arginine biosynthesis,0%,0%,0%,0%,0,0
+Amino acid,Histidine metabolism,0%,0%,0%,0%,0,0
+Amino acid,Lysine degradation,0%,0%,0%,0%,0,0
+Amino acid,Phenylalanine metabolism,0%,0%,0%,0%,0,0
+Amino acid,"Phenylalanine, tyrosine and tryptophan biosynthesis",0%,0%,0%,0%,0,0
+Amino acid,Tryptophan metabolism,0%,0%,0%,0%,0,0
+Amino acid,Tyrosine metabolism,0%,0%,0%,0%,0,0
+Carbohydrate,Amino sugar and nucleotide sugar metabolism,0%,0%,0%,0%,0.5,0
+Carbohydrate,Butanoate metabolism,0%,0%,0%,0%,0,0
+Carbohydrate,C5-Branched dibasic acid metabolism,0%,0%,0%,0%,0.5,0
+Carbohydrate,Citrate cycle (TCA cycle),0%,0%,0%,0%,0,0
+Carbohydrate,Fructose and mannose metabolism,0%,0%,0%,0%,0,0
+Carbohydrate,Galactose metabolism,0%,0%,0%,0%,0,0
+Carbohydrate,Glyoxylate and dicarboxylate metabolism,0%,0%,0%,0%,0,0
+Carbohydrate,Inositol phosphate metabolism,0%,0%,0%,0%,0,0
+Carbohydrate,Pentose and glucuronate interconversions,0%,0%,0%,0%,0,0
+Carbohydrate,Pentose phosphate pathway,0%,0%,0%,0%,0,0
+Carbohydrate,Pyruvate metabolism,0%,0%,0%,0%,0,0
+Cell growth and death,Cell cycle - Caulobacter,0%,0%,0%,0%,0,0
+Cell growth and death,Cell growth and death,0%,0%,0%,0%,0,0
+Cell growth and death,Ferroptosis,0%,0%,0%,0%,0,0
+Cellular community - prokaryotes,Biofilm formation - Escherichia coli,0%,0%,0%,0%,0,0
+Cellular community - prokaryotes,Biofilm formation - Pseudomonas aeruginosa,0%,0%,0%,0%,0,0
+Cellular community - prokaryotes,Quorum sensing,0%,0%,0%,0%,0,0
+Energy,Carbon fixation,0%,0%,0%,0%,0,0
+Energy,Methane metabolism,0%,0%,0%,0%,0,0
+Energy,Sulfur metabolism,0%,0%,0%,0%,0,0
+"Folding, sorting and degradation",Protein export,0%,0%,0%,0%,0,0
+"Folding, sorting and degradation",RNA degradation,0%,0%,0%,0%,0,0
+"Folding, sorting and degradation",Sulfur relay system,0%,0%,0%,0%,0,0
+Glycan  and,Glycan biosynthesis and metabolism,0%,0%,0%,0%,0.5,0
+Glycan  and,Lipopolysaccharide biosynthesis,0%,0%,0%,0%,0,0
+Glycan  and,O-Antigen nucleotide sugar biosynthesis,0%,0%,0%,0%,0.5,0
+Glycan  and,Peptidoglycan biosynthesis,0%,0%,0%,0%,0,0
+Lipid,Arachidonic acid metabolism,0%,0%,0%,0%,0,0
+Lipid,Biosynthesis of unsaturated fatty acids,0%,0%,0%,0%,0,0
+Lipid,Glycerolipid metabolism,0%,0%,0%,0%,0,0
+Lipid,Glycerophospholipid metabolism,0%,0%,0%,0%,0,0
+Membrane transport,ABC transporters,0%,0%,0%,0%,0,0
+Replication and repair,Base excision repair,0%,0%,0%,0%,0,0
+Replication and repair,DNA replication,0%,0%,0%,0%,0,0
+Replication and repair,Homologous recombination,0%,0%,0%,0%,0,0
+Replication and repair,Mismatch repair,0%,0%,0%,0%,0,0
+Replication and repair,Nucleotide excision repair,0%,0%,0%,0%,0,0
+Replication and repair,Replication and repair,0%,0%,0%,0%,0,0
+Signal transduction,HIF-1 signaling pathway,0%,0%,0%,0%,0,0
+Transport and catabolism,Peroxisome,0%,0%,0%,0%,0,0
+Transport and catabolism,Transport and catabolism,0%,0%,0%,0%,0,0
+Xenobiotics biodegradation and,Aminobenzoate degradation,0%,0%,0%,0%,0,0
+Xenobiotics biodegradation and,Caprolactam degradation,0%,0%,0%,0%,0,0
+Xenobiotics biodegradation and,Chloroalkane and chloroalkene degradation,0%,0%,0%,0%,0,0
+Xenobiotics biodegradation and,Drug metabolism - cytochrome P450,0%,0%,0%,0%,0,0
+Xenobiotics biodegradation and,Metabolism of xenobiotics by cytochrome P450,0%,0%,0%,0%,0,0
+cofactors and vitamins,Folate biosynthesis,0%,0%,0%,0%,0,0
+cofactors and vitamins,Nicotinate and nicotinamide metabolism,0%,0%,0%,0%,0,0
+cofactors and vitamins,One carbon pool by folate,0%,0%,0%,0%,0.5,0
+cofactors and vitamins,Pantothenate and CoA biosynthesis,0%,0%,0%,0%,0,0
+cofactors and vitamins,Porphyrin metabolism,0%,0%,0%,0%,0,0
+cofactors and vitamins,Thiamine metabolism,0%,0%,0%,0%,0,0
+cofactors and vitamins,Ubiquinone and other terpenoid-quinone biosynthesis,0%,0%,0%,0%,0,0
+cofactors and vitamins,Vitamin B6 metabolism,0%,0%,0%,0%,0,0
+other amino acids,Cyanoamino acid metabolism,0%,0%,0%,0%,0,0
+other amino acids,D-Amino acid metabolism,0%,0%,0%,0%,0,0
+other amino acids,Glutathione metabolism,0%,0%,0%,0%,0,0
+other amino acids,Metabolism of other amino acids,0%,0%,0%,0%,0,0
+other amino acids,Selenocompound metabolism,0%,0%,50%,0%,0.5,0
+other amino acids,Taurine and hypotaurine metabolism,0%,0%,0%,0%,0,0
+other amino acids,beta-Alanine metabolism,0%,0%,0%,0%,0,0
+other secondary metabolites,Biosynthesis of various plant secondary metabolites,0%,0%,0%,0%,0,0
+other secondary metabolites,Monobactam biosynthesis,0%,0%,0%,0%,0.5,0
+other secondary metabolites,Novobiocin biosynthesis,0%,0%,0%,0%,0,0
+other secondary metabolites,Staurosporine biosynthesis,0%,0%,0%,0%,0,0
+other secondary metabolites,Streptomycin biosynthesis,0%,0%,0%,0%,0.5,0
+terpenoids and polyketides,Geraniol degradation,0%,0%,0%,0%,0,0
+terpenoids and polyketides,Limonene and pinene degradation,0%,0%,0%,0%,0,0
