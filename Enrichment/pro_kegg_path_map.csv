@@ -1,0 +1,9 @@
+﻿path,New_Category
+00195 Photosynthesis [PATH:ko00195],Photosynthesis/Carbon fixation
+00710 Carbon fixation in photosynthetic organisms [PATH:ko00710],Photosynthesis/Carbon fixation
+00910 Nitrogen metabolism [PATH:ko00910],Nitrogen metabolism
+00194 Photosynthesis proteins [BR:ko00194],Photosynthesis/Carbon fixation
+02000 Transporters [BR:ko02000],Membrane transport
+99985 Amino acid metabolism,Amino acid/Nucleotide
+01007 Amino acid related enzymes [BR:ko01007],Amino acid/Nucleotide
+99982 Energy metabolism,Energy/Carbohydrate/Glycan
