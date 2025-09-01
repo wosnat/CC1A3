@@ -1,0 +1,234 @@
+Plate information 
+Plate,Repeat,Barcode,Measurement date,Inside temperature at start,Inside temperature at end,Ambient temperature at start,Ambient temperature at end,
+1,1,="",28/10/2021 15:53:32,25.95,26,27,27.1,
+
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas A,0,287685,76,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+
+
+Well,Sample,MeasA:Result,
+A01,-,0.1550,
+A02,-,0.1500,
+A03,-,0.1600,
+A04,-,0.1480,
+A05,-,0.1520,
+A06,-,0.1490,
+A07,-,0.1470,
+A08,-,0.1470,
+A09,-,0.1460,
+A10,-,0.1480,
+A11,-,0.1450,
+A12,-,0.1530,
+B01,-,0.5020,
+B02,-,0.5950,
+B03,-,0.6290,
+B04,-,0.5200,
+B05,-,0.5830,
+B06,-,0.2600,
+B07,-,0.1400,
+B08,-,0.1420,
+B09,-,0.1420,
+B10,-,0.1440,
+B11,-,0.1390,
+B12,-,0.3960,
+C01,-,0.5230,
+C02,-,0.6520,
+C03,-,0.7040,
+C04,-,0.5280,
+C05,-,0.3370,
+C06,-,0.1420,
+C07,-,0.1410,
+C08,-,0.1430,
+C09,-,0.1410,
+C10,-,0.1410,
+C11,-,0.1400,
+C12,-,0.1390,
+D01,-,0.6530,
+D02,-,0.4680,
+D03,-,0.5340,
+D04,-,0.5010,
+D05,-,0.3300,
+D06,-,0.2980,
+D07,-,0.3370,
+D08,-,0.3240,
+D09,-,0.1400,
+D10,-,0.1390,
+D11,-,0.1380,
+D12,-,0.1390,
+E01,-,0.5860,
+E02,-,0.5320,
+E03,-,0.5740,
+E04,-,0.6800,
+E05,-,0.2730,
+E06,-,0.2900,
+E07,-,0.1450,
+E08,-,0.1400,
+E09,-,0.1410,
+E10,-,0.1400,
+E11,-,0.1350,
+E12,-,0.3790,
+F01,-,0.8690,
+F02,-,0.6270,
+F03,-,0.5140,
+F04,-,0.5630,
+F05,-,0.5330,
+F06,-,0.3170,
+F07,-,0.1430,
+F08,-,0.3320,
+F09,-,0.1400,
+F10,-,0.1390,
+F11,-,0.1370,
+F12,-,0.1380,
+G01,-,0.7250,
+G02,-,0.7580,
+G03,-,0.5970,
+G04,-,0.4970,
+G05,-,0.3080,
+G06,-,0.3710,
+G07,-,0.5080,
+G08,-,0.1400,
+G09,-,0.1390,
+G10,-,0.1390,
+G11,-,0.1380,
+G12,-,0.2870,
+H01,-,0.1470,
+H02,-,0.1390,
+H03,-,0.1470,
+H04,-,0.1410,
+H05,-,0.1390,
+H06,-,0.1380,
+H07,-,0.1370,
+H08,-,0.1380,
+H09,-,0.1420,
+H10,-,0.1400,
+H11,-,0.1400,
+H12,-,0.1440,
+
+Basic assay information 
+Assay ID: ,,,,695
+Assay Started: ,,,,28/10/2021 15:51:26
+Assay Finished: ,,,,28/10/2021 15:53:53
+Assay Exported: ,,,,28/10/2021 15:54:23
+Assay Started By: ,,,,N/A
+Protocol ID: ,,,,100119
+Protocol Name: ,,,,Osnat OD600
+Serial#: ,,,,="23000335"
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,Osnat OD600
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Mode of measurement,,,,By Rows  bi-directional
+Rotated plate,,,,No
+Soft move,,,,Yes
+Protocol notes,,,, 
+
+Plate type:
+Name of the plate type,,,,96 General
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.35 mm
+Diameter of the well,,,,6.5 mm
+Volume of the well,,,,300 µl
+
+Coordinates of corners:
+96 General
+14.38 mm x------------------------------------------------------ x 113.38 mm
+11.24 mm                                                           11.24 mm
+
+14.38 mm x------------------------------------------------------ x 113.38 mm
+74.24 mm                                                           74.24 mm
+
+Platemap:
+Plate,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+B,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+C,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+D,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+E,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+F,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+G,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+
+ - - Undefined
+
+Calculations:
+No calculations.
+
+Auto export parameters:
+Export format,,,,ListC
+Picture,,,,No
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,C:\Users\Inspire\Desktop\Osnat\cc1A3\a_d4.csv
+Exported data,,,,Well Sample MeasA:Result
+
+Operations:
+Plate 1
+  Measurement
+    Meas,,,,A
+    Tech,,,,Absorbance
+
+Measurements:
+Meas ,,,,A
+Exc. filter,,,,N/A
+Excitation wavelength,,,,600 nm
+Measurement height,,,,7.5 mm
+Number of flashes,,,,100
+Number of flashes integrated,,,,38
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Reference AD gain,,,,1
+Reference signal,,,,64670
+Last edited,,,,21/10/2021 21:22:48
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Filters:
+Monochromator cutoff 230,,,,140
+Filter polarization,,,,None
+Description,,,,X230co Longpass=230nm  Tmin=90%
+Used with
+Last edited,,,,01/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 360,,,,141
+Filter polarization,,,,None
+Description,,,,X360co Longpass=360nm  Tmin=90%
+Used with
+Last edited,,,,01/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 585,,,,142
+Filter polarization,,,,None
+Description,,,,X585co Longpass=585nm  Tmin=75%
+Used with
+Last edited,,,,01/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,23000335
+Nickname,,,,EnSpire
+
+
+
+
+
+
+Exported with EnSpire Workstation version 4.13.3005.1482
