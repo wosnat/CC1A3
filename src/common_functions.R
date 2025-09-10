@@ -49,6 +49,7 @@ contrast_map_to_label_alt_continues = c(
     "A3vsA1_prot" = 'AX\nvs 1st', 
     "A3vsA1_rna" = 'AX\nvs 1st', 
     "A3vsA2_prot" = 'AX\nvs prev', 
+    "A3vsA2_rna" = 'AX\nvs prev', 
     "A5vsA1_prot" = 'AX\nvs 1st', 
     "A5vsA3_prot" = 'AX\nvs prev', 
     "C1vsA1_rna" = 'other', 
