@@ -6,19 +6,6 @@ library(tidyverse)
 #####################################################################################
 
 
-# category.cols <- c(
-#   "Nitrogen metabolism" = "#1b9e77",         # Teal green
-#   "Photosynthesis/Carbon fixation" = "#66a61e",            # Olive green
-#   "AA/Nucleotide" = "#7570b3",              # Purple
-#   "Membrane transport" = "#e7298a",         # Pink
-#   "Uncharacterized" = "#d95f02",  # Orange
-#   "high light inducible" = "#e6ab02",       # Mustard yellow
-#   'Genetic Info' = "#1f78b4",  # Deep blue
-#   #"Metabolism" = "#c0c0c0",                 # Brown
-#   "Metabolism" = "#a6761d",                 # Brown
-#   "Other" = "#b0b0b0"                       # Gray
-# )
-
 
 category.cols <- c(
   "Photosynthesis/Carbon fixation" = "#66a61e",  # Olive green
@@ -29,12 +16,32 @@ category.cols <- c(
   "Nitrogen metabolism" = "#1b9e77",         # Teal green
   "Metabolism" = "#a6761d",                 # Brown
   "Membrane transport" = "#e7298a",         # Pink
+  "Motility" = "#f781bf",                   # Light pink
   "Env. Info/Cellular Process" = "#e34a33",  # Warm Red
   "Genetic Info" = "#1f78b4",               # Deep blue
   "Other" = "#b0b0b0",                      # Gray
   "Uncharacterized" = "#d95f02"            # Orange
 )
 
+category.order <- c(
+		"Photosynthesis/Carbon fixation", 
+		"high light inducible",        
+		"Energy/Carbohydrate/Glycan", 
+		"AA/Nucleotide;Energy/Carbohydrate/Glycan", 
+		"AA/Nucleotide", 
+		"Nitrogen metabolism", 
+		"Metabolism", 
+		"Membrane transport", 
+		"Motility",
+		"Env. Info/Cellular Process", 
+		"Genetic Info", 
+		"Other",
+		"Uncharacterized"
+	)
+
+#####################################################################################
+#####################################################################################
+#####################################################################################
 
 contrast_map_to_label_alt_continues = c(
     "A2vsA1_prot" = 'AX\nvs 1st', 
@@ -171,20 +178,6 @@ contrast_map_to_label_pro_survival_death = c(
 )
 
 
-category.order <- c(
-            "Photosynthesis/Carbon fixation", 
-            "high light inducible",        
-            "Energy/Carbohydrate/Glycan", 
-            "AA/Nucleotide;Energy/Carbohydrate/Glycan", 
-            "AA/Nucleotide", 
-            "Nitrogen metabolism", 
-            "Metabolism", 
-            "Membrane transport", 
-            "Env. Info/Cellular Process", 
-            "Genetic Info", 
-            "Other",
-            "Uncharacterized"
-        )
 
 #####################################################################################
 #####################################################################################
