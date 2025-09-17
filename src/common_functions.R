@@ -177,7 +177,19 @@ contrast_map_to_label_pro_survival_death = c(
     "P3vsP1_prot" = 'other', 
     "P5vsP1_prot" = 'other'
 )
+#####################################################################################
+#####################################################################################
+#####################################################################################
 
+################## colors ################
+
+
+goseq_pal_up_fun = colorRamp2(c(0,-log10(0.05), 6), c("white", 'pink', "red"))
+pupgoseq = goseq_pal_up_fun(seq(0, 6))
+goseq_pal_down_fun = colorRamp2(c(0,-log10(0.05), 6), c("white", 'lightblue', "blue"))
+goseq_pal_de_fun = colorRamp2(c(0,-log10(0.05), 6), c("white", 'lightgrey', "darkgrey"))
+pdowngoseq = goseq_pal_down_fun(seq(0, 6))
+goseq_pal_updown_fun = colorRamp2(c(-6, log10(0.05), 0,-log10(0.05), 6), c('blue', 'lightblue', "white", 'pink', "red"))
 
 
 #####################################################################################
@@ -189,6 +201,7 @@ generate_goseq_heatmap_merged <- function(goseq_res, contrast_map_to_label, cont
     toppaths = goseq_res %>% 
         filter(contrast %in% contrast_list) %>%
         filter(
+			type %in% c('up', 'down'),
             enrich %in% enrichment_type, 
             padj < 0.05
         ) %>% 
@@ -311,6 +324,138 @@ generate_goseq_heatmap_merged <- function(goseq_res, contrast_map_to_label, cont
     return (draw(ht_list, heatmap_legend_side = "bottom", merge_legend = TRUE))
 }
 
+
+
+#########################################################################
+#########################################################################
+#########################################################################
+
+generate_goseq_heatmap_isde <- function(goseq_res, contrast_map_to_label, contrast_list, enrichment_type, stage_order=NULL) {
+    toppaths = goseq_res %>% 
+        filter(contrast %in% contrast_list) %>%
+        filter(
+			type == 'is_de',
+            enrich %in% enrichment_type, 
+            padj < 0.05
+        ) %>% 
+        distinct(PATH)
+
+    num_paths = length(toppaths$PATH)
+    print(num_paths)
+    heatmap_height = max(8,num_paths/2)
+    goseq_filter_df = goseq_res %>% 
+        filter(contrast %in% contrast_list) %>%
+        filter(PATH %in% toppaths$PATH) %>% 
+        replace_na(list(padj=1)) %>%
+        mutate(score = -log10(padj)) %>%
+        mutate(score = if_else(score > 6, 6, score)) %>%
+        #mutate(score = if_else(type == 'down', -score, score)) %>%
+        mutate(star = if_else(padj < 0.05, '*', '')) %>%
+        group_by(PATH, contrast) %>%
+        arrange(over_represented_pvalue) %>%
+           filter(row_number()==1) %>%
+        ungroup 
+
+    
+
+    goseq_filter_meta = goseq_filter_df %>% 
+        distinct(contrast) %>% 
+        separate_wider_delim(contrast, "_", names = c(NA, "Assay"), cols_remove = FALSE) %>%
+        mutate(Group = case_when(
+            str_detect(contrast, "C")~ "Coculture", 
+            str_detect(contrast, "P3|P5|LATEvsP")~ "Axenic late", 
+            TRUE~ "Axenic"
+        )) %>% 
+        mutate(Stage=contrast_map_to_label[contrast]) 
+
+    if (is.null(stage_order)) {
+        stage_order = sort(unique(goseq_filter_meta$Stage))
+    }
+    goseq_filter_meta = goseq_filter_meta %>%
+        mutate(
+            Group = factor(Group, levels=c("Coculture", "Axenic", "Axenic late")),
+            Assay = factor(Assay, levels=c("rna", "prot")),
+            Stage = factor(Stage, levels=stage_order),
+            contrast = factor(contrast, levels=contrast_list),
+              ) %>%
+        arrange(contrast) %>%
+        column_to_rownames('contrast') 
+
+    print(dput(unique(goseq_filter_meta$Stage)))
+    # row_ha = rowAnnotation(foo2 = runif(10), ))
+    
+    module_mat = goseq_filter_df %>% 
+        distinct(PATH, Category) %>%
+        mutate(Category = factor(Category, levels=category.order)) %>%
+        arrange(Category,PATH) %>%
+        column_to_rownames('PATH') 
+
+    goseq_filter_df = goseq_filter_df %>% 
+        mutate(PATH = factor(PATH, levels=rownames(module_mat))) %>%
+        mutate(Category = factor(Category, levels=category.order)) %>%
+        arrange(Category, PATH)
+    
+    
+    # Heatmap(small_mat, name = "mat", col = col_fun, 
+    #     layer_fun = function(j, i, x, y, width, height, fill) {
+    #         v = pindex(small_mat, i, j)
+    #         l = v > 0
+    #         grid.text(sprintf("%.1f", v[l]), x[l], y[l], gp = gpar(fontsize = 10))
+    # })
+    
+    stars = goseq_filter_df %>% #filter(type=='up') %>%
+        pivot_wider(names_from = contrast, values_from = star, id_cols =PATH) %>% 
+        arrange(PATH) %>%
+        relocate(rownames(goseq_filter_meta)) %>%
+        column_to_rownames('PATH') 
+    
+    up_mat = goseq_filter_df %>% #filter(type=='up') %>%
+        pivot_wider(names_from = contrast, values_from = score, id_cols =PATH) %>% 
+        arrange(PATH) %>%
+        relocate(rownames(goseq_filter_meta)) %>%
+        column_to_rownames('PATH') %>% as.matrix() %>%
+    Heatmap(
+        name = 'GOSEQ score',
+        col=goseq_pal_de_fun,
+        rect_gp = gpar(col = "white", lwd = 2),
+        cluster_columns  = FALSE,
+        cluster_rows  = FALSE,
+        show_row_dend = FALSE,
+        #row_order=module_mat$PATH,
+        column_order = rownames(goseq_filter_meta),
+        row_split = module_mat$Category,
+        column_split = goseq_filter_meta$Stage,
+        #column_title_gp = gpar(col = group_pal),
+        #column_names_gp = gpar(col = group_pal),
+        column_title_gp = gpar(fontsize=8),
+        column_names_gp = gpar(fontsize=8),
+        row_names_gp = gpar(fontsize=8),
+        border=TRUE,
+        width=unit(8, 'cm'),
+        height=unit(heatmap_height, 'cm'),
+        heatmap_legend_param = list(direction = "horizontal"),
+        row_title=NULL,
+        cell_fun = function(j, i, x, y, width, height, fill) {
+            grid.text(sprintf("%s", stars[i, j]), x, y, gp = gpar(fontsize = 10))
+        },
+        
+        #column_title = 'HOT1A3: GOSEQ Score - upregulated',
+    ) #, annotation_col = goseq_filter_meta) #, annotation_row = path_meta)
+    
+    
+    ann_mat = Heatmap(
+        as.matrix(module_mat), 
+        #row_order=module_mat$PATH,
+        name='Category',
+        width=unit(0.5, 'cm'),
+        heatmap_legend_param = list(direction = "horizontal", ncol=3),
+        #col = structure(category.cols, names = category.order),
+        col = category.cols,
+        row_title=FALSE,
+    )
+    ht_list = up_mat + ann_mat
+    return (draw(ht_list, heatmap_legend_side = "bottom", merge_legend = TRUE))
+}
 
 
 
