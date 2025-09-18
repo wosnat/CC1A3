@@ -1,0 +1,44 @@
+Transport System,Directionality,Compound Type,Chemical Nature,Notes
+biotin transport,Uptake,C,Organic,Vitamin B7
+glucose transporter,Uptake,C,Organic,Sugar uptake
+glycoside/pentoside/hexuronide:cation symporter,Uptake,C,Organic,Sugar derivatives
+malate permease and related,Uptake,C,Organic,Organic acids
+glutamate:Na+ symporter,Uptake,C/N,Organic,Amino acid
+peptide/nickel transport,Uptake,C/N,Organic/Inorganic,Peptides and metal ions
+vitamin B12/bleomycin/antimicrobial peptide transport,Uptake,C/N,Organic,Complex organics
+MtN3 and saliva related transmembrane,Uptake,C,Organic,Sugar-related transport
+MFS transporter,Uptake,Bidirectional,Organic,Broad organic uptake
+nitrate/nitrite transport,Uptake,N,Inorganic,Nitrogen sources
+ammonium transporter,Uptake,N,Inorganic,NH₄⁺ uptake
+phosphate transport,Uptake,P,Inorganic,PO₄³⁻ uptake
+phosphonate transport,Uptake,P,Mixed,Organophosphorus compounds
+sulfate permease,Uptake,S,Inorganic,SO₄²⁻ uptake
+iron(III) transport,Uptake,Fe,Inorganic,Fe³⁺ uptake
+manganese transport,Uptake,Mn,Inorganic,Mn²⁺ uptake
+magnesium transporter,Uptake,Mg,Inorganic,Mg²⁺ uptake
+arsenite transporter,Uptake,As,Inorganic,Toxic ion uptake
+fluoride exporter,Export,F,Inorganic,Detoxification
+chloride channel,Uptake/Export,Cl,Inorganic,Passive ion flow
+chromate transporter,Uptake,Cr,Inorganic,Toxic ion uptake
+trk/ktr,Uptake,K⁺,Inorganic,Potassium uptake
+lipopolysaccharide export,Export,C,Organic,Cell wall component
+polysaccharide biosynthesis/export,Export,C,Organic,EPS export
+putative peptidoglycan lipid II flippase,Export,C,Organic,Cell wall precursor
+viologen exporter family transport,Export,C,Organic,Redox-active compounds
+outer membrane,Export,Mixed,Mixed,Export of proteins/lipids
+glutathione S-transferase,Export,C/N,Organic,Detoxification/export
+magnesium and cobalt exporter,Export,Mg/Co,Inorganic,Metal ion efflux
+manganese/iron transport,Export,Mn/Fe,Inorganic,Bidirectional potential
+voltage-gated potassium channel,Export,K⁺,Inorganic,Ion flow regulation
+system,Translocation,N/A,N/A,General placeholder
+preprotein translocase,Translocation,N/A,N/A,Protein import into membrane
+sec-independent,Translocation,N/A,N/A,Alternate protein translocation
+signal recognition particle,Targeting,N/A,N/A,Protein targeting to membrane
+fused signal recognition particle receptor,Targeting,N/A,N/A,Membrane receptor
+YidC/Oxa1 family membrane,Insertion,N/A,N/A,Membrane protein insertion
+cytochrome c-type biogenesis,Assembly,N/A,N/A,Cofactor insertion
+Fe-S cluster assembly ATP-binding,Assembly,N/A,N/A,Cofactor biosynthesis
+cell division,Other,N/A,N/A,Not a transporter per se
+putative ABC transport,Unclassified,N/A,N/A,Direction unknown
+ABC-2 type transport,Unclassified,N/A,N/A,May be uptake or export
+energy-coupling factor transport,Uptake,N/A,N/A,Often uptake
