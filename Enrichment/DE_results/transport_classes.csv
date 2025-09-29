@@ -1,0 +1,49 @@
+﻿Original Name,Type,Compound Category,Substrate(s),Direction,Notes
+preprotein translocase,System,Protein,Protein,other,"Moves unfolded proteins across membranes (e.g., Sec or Tat pathway)."
+ATP-binding cassette,Transporter Family,general transport,Various,bidirectional,A very large family of transporters (ABC transporters) with diverse substrates and directionality.
+urea transport,Transporter,Urea,Urea,uptake,
+peptide/nickel transport,Transporter,organic N/C,Peptide; Nickel,uptake,Transports both an organic molecule and a metal ion.
+phosphate transport,Transporter,ions,Phosphate (PO₄³⁻),uptake,
+phosphonate transport,Transporter,ions,Phosphonate,uptake,
+energy-coupling factor transport,Transporter Family,general transport,Vitamins; micronutrients,uptake,ECF transporter family specializing in uptake of essential micronutrients.
+glutathione S-transferase,Enzyme,other,Glutathione; xenobiotics,other,Not a transporter. An enzyme that prepares compounds for export by another transporter.
+iron(III) transport,Transporter,ions,Iron (Fe³⁺),uptake,
+manganese transport,Transporter,ions,Manganese (Mn²⁺),uptake,
+nitrate/nitrite transport,Transporter,inorganic N,Nitrate (NO₃⁻); Nitrite (NO₂⁻),uptake,
+phospholipid/cholesterol/gamma-HCH transport,Transporter,organic C,Phospholipid; Cholesterol; gamma-HCH,bidirectional,Can be involved in uptake or maintaining membrane asymmetry (flippase).
+putative ABC transport,Transporter Family,general transport,Various,bidirectional,A predicted member of the ABC transporter family.
+sec-independent,System,Protein,Protein,export,"Refers to a protein export pathway (e.g., TAT system) that exports folded proteins."
+viologen exporter family transport,Transporter,organic N/C,Viologens,export,
+ABC-2 type transport,Transporter Family,general transport,Various,bidirectional,A subfamily of ABC transporters.
+MFS transporter,Transporter Family,general transport,Various,bidirectional,Major Facilitator Superfamily; direction and substrate are highly variable.
+lipopolysaccharide export,System,Polysaccharide,Lipopolysaccharide (LPS),export,
+magnesium and cobalt exporter,Transporter,ions,Magnesium (Mg²⁺); Cobalt (Co²⁺),export,
+manganese/iron transport,Transporter,ions,Manganese (Mn²⁺); Iron (Fe²⁺/Fe³⁺),uptake,
+polysaccharide biosynthesis/export,System,Polysaccharide,Polysaccharide,export,System that couples the synthesis and export of polysaccharides.
+sulfate permease,Transporter,ions,Sulfate (SO₄²⁻),uptake,
+trk/ktr,System,ions,Potassium (K⁺),uptake,Potassium uptake systems.
+Fe-S cluster assembly ATP-binding,Process/Component,other,N/A,other,Part of intracellular machinery for building iron-sulfur clusters; not a membrane transporter.
+MtnN3 and saliva related transmembrane,Transporter (putative),ions,Metal ions (putative),other,"Poorly characterized family, possibly involved in metal transport."
+YidC/Oxa1 family membrane,System,Protein,Protein,other,Membrane protein insertase; it inserts proteins into the membrane.
+ammonium transporter,Transporter,inorganic N,Ammonium (NH₄⁺),uptake,
+arsenite transporter,Transporter,ions,Arsenite (AsO₃³⁻),export,Typically for detoxification.
+biotin transport,Transporter,organic N/C,Biotin (Vitamin B7),uptake,
+cation:H+ antiporter,Transporter,ions,Cation; Proton (H⁺),bidirectional,Exchanges cations for protons across the membrane.
+cell division,Process,other,N/A,other,Not a transporter.
+chloride channel,Transporter,ions,Chloride (Cl⁻),bidirectional,Channel that allows passage of chloride ions down their electrochemical gradient.
+chromate transporter,Transporter,ions,Chromate (CrO₄²⁻),export,Typically for detoxification/resistance.
+cytochrome c-type biogenesis,System,other,N/A,other,Intracellular protein maturation process; not a transporter.
+fluoride exporter,Transporter,ions,Fluoride (F⁻),export,
+fused signal recognition particle receptor,Process/Component,other,N/A,other,Part of the machinery that targets proteins for secretion; not a transporter.
+glutamate:Na+ symporter,Transporter,organic N/C,Glutamate; Sodium (Na⁺),uptake,
+glycoside/pentoside/hexuronide:cation symporter,Transporter,organic C,Sugars; Cation,uptake,
+heterocyst specific transport,Transporter (putative),general transport,Unknown,other,Function depends on the specific transporter in the heterocyst cell.
+iron complex transport,Transporter,ions,"Iron complex (e.g., siderophore-Fe)",uptake,
+magnesium transporter,Transporter,ions,Magnesium (Mg²⁺),uptake,
+malate permease and related,Transporter,organic C,Malate,uptake,
+outer membrane,Structure,other,N/A,other,"Not a transporter, but a cellular location."
+putative peptidoglycan lipid II flippase,Transporter,organic N/C,Lipid II,other,Flips a precursor molecule across the cytoplasmic membrane during cell wall synthesis.
+signal recognition particle,Process/Component,other,N/A,other,Part of protein targeting machinery; not a transporter.
+vitamin B12/bleomycin/antimicrobial peptide transport,Transporter,organic N/C,Vitamin B12; Bleomycin; AMPs,bidirectional,Likely an ABC transporter involved in uptake of nutrients (B12) and export for resistance (bleomycin).
+voltage-gated potassium channel,Transporter,ions,Potassium (K⁺),bidirectional,Channel that allows passage of K⁺ ions down their electrochemical gradient.
+MtN3 and saliva related transmembrane,,organic C,,bidirectional,
