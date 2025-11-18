@@ -1,0 +1,147 @@
+system,n
+5-hydroxyisourate hydrolase,1
+ABC transport,1
+ABC-2 type transport,8
+ATP-binding cassette,7
+Ca-activated chloride channel homolog,3
+Fe-S cluster assembly ATP-binding,1
+Gnt-I,1
+L-lysine exporter family,1
+LPS-assembly,1
+LPS-assembly lipoprotein,1
+MFS transporter,11
+MipA family,1
+Na+:H+ antiporter,4
+OmpA-OmpF porin,1
+SecD/SecF fusion,1
+TolB,1
+YidC/Oxa1 family membrane,1
+adenine/guanine/hypoxanthine permease,1
+alanine or glycine:cation symporter,2
+ammonium transporter,1
+arsenite transporter,1
+benzoate membrane transport,1
+betaine/carnitine transporter,1
+bile acid:Na+ symporter,1
+biopolymer transport,12
+branched-chain amino acid transport,1
+capsular polysaccharide transport,3
+carboxybiotin decarboxylase,1
+catecholate siderophore receptor,2
+cation/acetate symporter,1
+cation:H+ antiporter,2
+cationic peptide transport,5
+cell division,1
+cell division transport,2
+cellulose synthase operon,1
+chemotaxis,2
+chloramphenicol-sensitive,1
+chloride channel,1
+choline/glycine/proline betaine transport,2
+cobalt-zinc-cadmium efflux,1
+colicin import membrane,1
+concentrative nucleoside transporter,1
+copper resistance,4
+copper/silver efflux,1
+cytochrome c-type biogenesis,1
+drug/metabolite transporter,1
+ferric enterobactin receptor,1
+fluoride exporter,1
+formate transporter,1
+formate-nitrite transporter family,1
+fused signal recognition particle receptor,1
+general secretion pathway,11
+glutathione S-transferase,5
+glutathione-regulated potassium-efflux,1
+glycerol uptake facilitator,1
+glycine betaine transporter,1
+glycoside/pentoside/hexuronide:cation symporter,1
+heavy metal efflux,3
+heme exporter,4
+heme transport,1
+hemoglobin/transferrin/lactoferrin receptor,2
+hemolysin (HlyC) family,1
+high-affinity iron transporter,1
+holin-like,1
+inner membrane transporter RhtA,1
+inorganic phosphate transporter,1
+iron complex outermembrane recepter,35
+iron(III) transport,3
+lactate permease,1
+lipopolysaccharide export,5
+lipoprotein-releasing,3
+long-chain fatty acid transport,1
+macrolide transport,1
+magnesium and cobalt exporter,2
+magnesium transporter,3
+malonate transporter and related,1
+maltose/moltooligosaccharide transporter,1
+manganese efflux pump family,1
+manganese transport,1
+membrane fusion,17
+mercuric ion transport,2
+metal transporter CNNM,1
+miniconductance mechanosensitive channel,1
+modulator of FtsH protease,1
+molybdate transport,4
+monovalent cation:H+ antiporter-2,2
+multidrug efflux pump,3
+multidrug resistance,2
+multiple sugar transport,1
+neurotransmitter:Na+ symporter,2
+nicotinamide mononucleotide transporter,1
+nitrate/nitrite transport,3
+nitrogen PTS,1
+nucleobase:cation symporter-1,1
+outer membrane,11
+outer membrane receptor for ferrienterochelin and colicins,1
+outer-membrane receptor for ferric coprogen and ferric-rhodotorulic acid,1
+oxaloacetate decarboxylase (Na+ extruding),2
+peptide/nickel transport,4
+peptidoglycan-associated lipoprotein,1
+periplasmic,3
+periplasmic mercuric ion binding,1
+phosphate transport,4
+phosphate-selective porin OprO and OprP,1
+phosphocarrier,1
+phospholipid transport,2
+phospholipid/cholesterol/gamma-HCH transport,3
+phosphotransferase,1
+polar amino acid transport,4
+polysaccharide biosynthesis,1
+polysaccharide biosynthesis transport,1
+polysaccharide biosynthesis/export,2
+porin,1
+potassium/hydrogen antiporter,1
+preprotein translocase,8
+protein tyrosine kinase modulator,1
+protein-tyrosine kinase,1
+proton-dependent oligopeptide transporter,1
+putative ABC transport,6
+putative peptidoglycan lipid II flippase,1
+putative permease,1
+putative spermidine/putrescine transport,1
+putative thiamine transport,3
+quaternary ammonium compound-resistance,1
+sec-independent,3
+serine/threonine transporter,1
+signal recognition particle,1
+small conductance mechanosensitive channel,5
+small multidrug resistance family-3,1
+small multidrug resistance pump,1
+sodium transport,2
+sodium-type flagellar,1
+sodium-type polar flagellar,1
+solute carrier family 13 (sodium-dependent dicarboxylate transporter),1
+solute:Na+ symporter,5
+stringent starvation,1
+sulfate permease,2
+translocation and assembly module TamA,1
+translocation and assembly module TamB,1
+trk/ktr,4
+vitamin B12 transport,2
+vitamin B12 transporter,1
+voltage-gated potassium channel,2
+voltage-gated sodium channel,1
+xanthine permease XanP,1
+zinc transporter,1
