@@ -26,20 +26,24 @@
 <rect x='205.54' y='219.90' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFFFFF;' />
 <rect x='205.54' y='248.25' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #C8E4EE;' />
 <rect x='205.54' y='276.60' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FF0000;' />
-<rect x='261.52' y='191.56' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFE0E5;' />
-<rect x='261.52' y='219.90' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFC1CC;' />
+<rect x='261.52' y='191.56' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFBDC6;' />
+<rect x='261.52' y='219.90' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FF7E6D;' />
 <rect x='261.52' y='248.25' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #C5E3ED;' />
 <rect x='261.52' y='276.60' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #CFE8F0;' />
+<text x='289.52' y='209.31' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
+<text x='289.52' y='237.66' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
 <text x='233.53' y='294.35' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
 <rect x='205.54' y='191.56' width='111.97' height='113.39' style='stroke-width: 0.75;' />
-<rect x='320.34' y='191.56' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #EBF5F9;' />
-<rect x='320.34' y='219.90' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #EDF6F9;' />
+<rect x='320.34' y='191.56' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFFBFC;' />
+<rect x='320.34' y='219.90' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #F2F9FB;' />
 <rect x='320.34' y='248.25' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFBAC2;' />
 <rect x='320.34' y='276.60' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FF0000;' />
-<rect x='376.33' y='191.56' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFEEF1;' />
-<rect x='376.33' y='219.90' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFDBE1;' />
+<rect x='376.33' y='191.56' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFA19E;' />
+<rect x='376.33' y='219.90' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FF9A93;' />
 <rect x='376.33' y='248.25' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #FFEDF0;' />
 <rect x='376.33' y='276.60' width='55.98' height='28.35' style='stroke-width: 1.50; stroke: #FFFFFF; fill: #ABD0E7;' />
+<text x='404.32' y='209.31' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
+<text x='404.32' y='237.66' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
 <text x='348.33' y='266.00' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
 <text x='348.33' y='294.35' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
 <text x='404.32' y='294.35' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='3.90px' lengthAdjust='spacingAndGlyphs'>*</text>
